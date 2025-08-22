@@ -43,17 +43,6 @@ I'm a dedicated software developer with a passion for building robust, scalable,
 
 ---
 
-## 💼 Example Projects
-
-While teaching, I created a variety of example projects to help others learn and grow. These projects showcase practical applications of backend development, RESTful API design, cloud-native principles, and modern frontend technologies.
-
-- [Spring Boot REST API Demo](#)  
-- [Responsive React Dashboard](#)  
-
-> *I’m always happy to discuss these projects in more detail—just ask!*
-
----
-
 ## 🤝 About Me
 
 What motivates me most is helping those around me—whether that’s through mentorship, teaching, or building software that makes a difference.
